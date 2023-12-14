@@ -1,0 +1,136 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+header {
+    background-color: #F8F8F8;
+
+}
+header a{
+    color:black;
+    text-decoration:none;
+}
+.header_content {
+    vertical-align: middle;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+header .logo img{
+    width:80%
+}
+.navigation li {
+    display: inline;
+    padding-right: 20px;
+    padding-left: 30px;
+}
+.navigation {
+    padding-top:30px;
+    
+}
+.registration {
+    font-weight: 600;
+}
+
+.Reg {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    color: black;
+}
+    .Reg h3 {
+        padding-bottom: 40px;
+    }
+    
+form {
+    background-color: #F8F8F8;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-top: 30px;
+    border: 1px solid black;
+}
+
+input {
+    width: 250px;
+}
+
+.reg_A {
+    margin-top: 40px;
+    text-align: left;
+}
+
+form a {
+    color: black;
+}
+
+.Reg_button {
+    margin-top: 20px;
+    background-color: #F86969;
+    color: white;
+    border: none;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.inputs {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.inputs {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.Rate h6 {
+    font-weight: 600;
+}
+.Forma {
+    padding: 80px 15%;
+}
+.forma {
+    text-align: center;
+    border: 3px solid #F05757;
+    background-color: #F8F8F8;
+    padding: 30px 10px;
+}
+.Forma_button {
+    color: white;
+    font-weight: 500;
+    text-shadow: -1px -1px 0 #856565, 1px -1px 0 #856565;
+    background-color: #F86969;
+    border: 2px solid #866E6E;
+    padding: 5px 35px;
+}
+.content_forma input {
+    margin-right: 30px;
+    border: none;
+    background-color: #F8F8F8;
+    border-bottom: 2px solid #787373;
+}
+.Forma p {
+    color: #787373;
+}
+.Forma a {
+    color: #787373;
+}
+.content_forma{
+    margin-top:50px;
+    margin-bottom:60px;
+}
+footer {
+    background-color: #F8F8F8;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: 500;
+}
+footer a{
+    color:black;
+}
+.sss {
+    color: white;
+    font-weight: 500;
+    padding: 2px 20px;
+    background-color: #F86969;
+    border: 2px solid #866E6E;
+    margin-left: 30px;
+}
